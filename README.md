@@ -1,5 +1,4 @@
-![](..%5C..%5CEkran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
-
+![This is an image](..%5C..%5CEkran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG))
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
