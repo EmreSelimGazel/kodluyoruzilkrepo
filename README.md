@@ -1,4 +1,3 @@
-![This is an image](..%5C..%5CEkran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG))
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
@@ -21,3 +20,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 # License
 MIT
 
+# Project Picture
+![This is an image](https://github.com/EmreSelimGazel/kodluyoruzilkrepo/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
